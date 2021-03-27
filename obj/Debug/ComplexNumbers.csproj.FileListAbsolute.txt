@@ -1,0 +1,5 @@
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/Properties/ComplexNumbers/bin/Debug/ComplexNumbers.exe
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/Properties/ComplexNumbers/bin/Debug/ComplexNumbers.pdb
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/Properties/ComplexNumbers/obj/Debug/ComplexNumbers.csprojAssemblyReference.cache
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/Properties/ComplexNumbers/obj/Debug/ComplexNumbers.exe
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/Properties/ComplexNumbers/obj/Debug/ComplexNumbers.pdb
